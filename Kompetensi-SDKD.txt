@@ -1,4 +1,6 @@
 Komunikasi design sinkron
+- Line
 Komunikasi design asinkron
+- Email
 github
 git
