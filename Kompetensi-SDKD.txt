@@ -6,3 +6,4 @@ github
 - Membuat akun GitHub
 - Membuat Repositori
 git
+- belum
