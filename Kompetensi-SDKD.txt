@@ -5,5 +5,7 @@ Komunikasi design asinkron
 github
 - Membuat akun GitHub
 - Membuat Repositori
+- Membuat File Baru
+- Membuat Commit
 git
 - belum
