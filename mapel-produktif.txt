@@ -1,5 +1,5 @@
 Simulasi dan Komunikasi Digital
 Pemograman Dasar
 Komputer jaringan dasar
-Fisika
+Sistem Komputer
 Dasar Desain Grafis
