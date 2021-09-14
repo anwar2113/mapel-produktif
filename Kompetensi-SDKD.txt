@@ -3,4 +3,7 @@ Komunikasi design sinkron
 Komunikasi design asinkron
 - Email
 github
+- Membuat akun GitHub
+- Membuat Repositori
 git
+- belum
